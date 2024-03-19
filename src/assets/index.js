@@ -8,18 +8,21 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+// import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import c from "./tech/c.png";
+import cpp from "./tech/cpp.png";
+// import github from "./tech/github.png";
+import bootstrap from "./tech/bootstrap.png";
+import blender from "./tech/blender.png";
+import unity from "./tech/unity.png";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -36,21 +39,18 @@ export {
   creator,
   mobile,
   web,
-  github,
   menu,
   close,
   css,
-  docker,
-  figma,
+  bootstrap,
+  blender,
   git,
   html,
   javascript,
-  mongodb,
+  unity,
   nodejs,
   reactjs,
-  redux,
   tailwind,
-  typescript,
   threejs,
   meta,
   shopify,
@@ -59,4 +59,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  c,
+  cpp,
+  github,
+
 };

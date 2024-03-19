@@ -45,7 +45,9 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
 
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quasi eum tempora maxime ipsam ad, expedita amet hic modi beatae perspiciatis. Quod enim, consequuntur omnis iste non provident. Molestias, nam.
+        Welcome to my portfolio! I'm a versatile developer passionate about crafting immersive digital experiences using HTML, CSS, React.js, Node.js, JavaScript, Three.js, Unity and Blender. Whether it's building responsive websites, creating captivating AR/VR applications, developing engaging games, or producing stunning videos, I thrive on pushing the boundaries of innovation and delivering exceptional results. Let's collaborate and bring your ideas to life!
+
+
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

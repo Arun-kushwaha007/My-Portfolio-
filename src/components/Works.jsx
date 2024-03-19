@@ -56,7 +56,8 @@ const Works = () => {
       </motion.div>
 
       <div className="w-full flex">
-      <motion.p variants={fadeIn("","",0.1,1)} className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod sed, reiciendis quas non repellendus aperiam quasi. Quia accusamus eius libero ullam in, beatae id assumenda dolore rerum facilis? Quia, numquam?
+      <motion.p variants={fadeIn("","",0.1,1)} className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]">
+      Explore a collection of my diverse projects, each representing a unique blend of creativity, technical prowess, and innovation. From immersive web experiences crafted with React.js and Three.js to captivating AR/VR applications developed with Unity and Blender, and even engaging games built using JavaScript, I invite you to delve into the world of digital innovation. Get ready to be inspired and intrigued as you explore the range of possibilities that I bring to life through my projects.
       </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">
