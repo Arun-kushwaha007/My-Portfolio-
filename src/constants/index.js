@@ -120,67 +120,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Dog Holiday Run",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Introducing Dog Holiday Run | JavaScript Adventure Game [Game Highlights]: Play as a lively dog on a holiday escapade! [Explore various actions]: run, jump, roll, dive, and more!      Encounter a festive mix of enemies, each with its unique challenge.  Race against time to achieve the winning score. Dive into stunning graphics, vibrant particle effects, and joyful collision animations. [Tech Stack]: HTML, CSS, JavaScript Canvas for rendering Object-oriented design for game elements Enjoy a festive UI with real-time scoring, a cheerful timer, and holiday-themed lives indicator",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "JAVASCRIPT",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Arun-kushwaha007/Dog-Hoiday-Run",
     },
     {
-      name: "Job IT",
+      name: "Portfolio Template",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Sleek and dynamic Portfolio Showcase template, meticulously crafted to highlight your skills, projects, and achievements. Whether you're a designer, developer, photographer, or creative professional, this template offers a stunning platform to present your work to the world.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "JAVASCRIPT",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Arun-kushwaha007/Modern-Webpage-Portfolio-Template-.",
     },
     {
-      name: "Trip Guide",
+      name: "Snake Game",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Step back in time and experience the nostalgia of arcade gaming with this classic Snake Game built using HTML, CSS, and JavaScript. Dive into pixelated landscapes and maneuver your snake through a grid-based environment, devouring food and avoiding obstacles along the way. Whether you're a gaming enthusiast, developer, or casual player, this template offers a thrilling gaming experience that harkens back to the golden age of gaming.",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "JAVASCRIPT",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Arun-kushwaha007/SnakeGame",
     },
   ];
   
