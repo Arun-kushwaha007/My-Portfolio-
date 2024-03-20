@@ -40,7 +40,7 @@ To run the portfolio website locally:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
-4. Run the development server with `npm start`.
+4. Run the development server with `npm run dev`.
 5. Access the website in your browser at `http://localhost:3000`.
 
 ## Credits
