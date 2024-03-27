@@ -23,6 +23,7 @@ import {
     c,
     cpp,
     unity,
+    aj,
     
   } from "../assets";
   
@@ -141,25 +142,21 @@ import {
       source_code_link: "https://github.com/Arun-kushwaha007/Dog-Hoiday-Run",
     },
     {
-      name: "Portfolio Template",
+      name: "Aj's Endless Run",
       description:
-        "Sleek and dynamic Portfolio Showcase template, meticulously crafted to highlight your skills, projects, and achievements. Whether you're a designer, developer, photographer, or creative professional, this template offers a stunning platform to present your work to the world.",
+        "AJ's Endless Run: is an endless runner game developed in Unity and C#, offering players an immersive cosmic experience. The project emphasizes intuitive controls, dynamic obstacles, and captivating visuals. With a focus on performance optimization and social integration, it stands as a testament to collaborative game development expertise.",
       tags: [
         {
-          name: "HTML",
+          name: "UNITY",
           color: "blue-text-gradient",
         },
         {
-          name: "CSS",
+          name: "C#",
           color: "green-text-gradient",
         },
-        {
-          name: "JAVASCRIPT",
-          color: "pink-text-gradient",
-        },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/Arun-kushwaha007/Modern-Webpage-Portfolio-Template-.",
+      image: aj,
+      source_code_link: "https://github.com/Arun-kushwaha007/Endless-Runner-Game-Unity",
     },
     {
       name: "Snake Game",
